@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayusharma98
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning MERN Tech
 - 📫 How to reach me - Email:-Ayusharma650@gmail.com
 linkedin - ayusharma98
 
